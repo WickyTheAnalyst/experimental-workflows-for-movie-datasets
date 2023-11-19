@@ -1,5 +1,7 @@
 # Comprehensive Data Analysis Report: Unveiling Insights into Movie Ratings
 
+See Code here https://nbviewer.org/github/WickyTheAnalyst/experimental-workflows-for-movie-datasets/blob/main/workflow.ipynb
+
 ## Executive Summary
 This comprehensive data exploration project aims to unveil significant insights into movie ratings using a dataset consisting of user ratings, movie details, and user demographic information. The analysis involves understanding the distribution of ratings, user demographics, correlation analysis, time-series analysis, genre-based exploration, and demographic-based ratings analysis. The dataset comprises three main components: `u_data`, `u_item`, and `u_user`.
 
