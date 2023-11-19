@@ -43,12 +43,6 @@ This comprehensive data exploration project aims to unveil significant insights 
 - Gender Distribution: Male respondents significantly outnumber females in providing ratings, potentially indicating gender bias.
 - Occupation Distribution: Students are the majority among respondents, followed by educators, with fewer respondents in professions like doctors.
 
-## 3. Advanced Analysis and Insights
-
-### 3.1. User Demographics & Ratings Analysis
-- Age vs. Ratings: No significant trends observed in age-wise ratings.
-- Gender vs. Ratings: No conclusive differences observed between gender and ratings.
-- Occupation vs. Ratings: No clear pattern observed among different occupations and ratings.
 
 ### 3.2. Time-Based Analysis
 - Average Monthly Ratings: A relatively normal distribution from March to the 9th month, followed by a sudden increase in the 10th month, indicating potential seasonal trends.
